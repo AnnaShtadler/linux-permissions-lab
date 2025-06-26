@@ -14,7 +14,7 @@ This lab is part of my cybersecurity portfolio and includes real-world examples 
 
 | File                     | Description |
 |--------------------------|-------------|
-| `permissions-report.pdf` | Full case documentation, including screenshots and detailed commentary |
+| `linux-permissions-lab-report.pdf` | Full case documentation, including screenshots and detailed commentary |
 | `README.md`              | Project summary and overview (you’re reading it) |
 
 ---
